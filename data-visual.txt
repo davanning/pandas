@@ -1,0 +1,11 @@
+What is Data Visualization ?
+
+-> Data visualization is the graphical representation of information and data, using visual elements like chart, graphs, maps and dashboards to make complex, high-volume, or numerical data easier to understand, analyze and communication. 
+It transforms raw data into accessible, visual formats that reveal trends, outliers, and patterns, enabling faster decision-making.
+
+What is Matplotlib?
+
+-> Metplotlib is a comprehensive and widely used open-source data visualization library for the Python programming language. It provides a flexible and powerful interface for creating a broad range of static, animated, and interactive plots to help users understand patterns and trends in data.
+
+What is Seaborn ?
+Seaborn is a popular Python library for creating attractive, informative statistical graphics, built on top of Matplotlib and integrated with pandas data structures. It provides a high-level, dataset-oriented interface that simplifies complex visualizations like heatmaps, violin plots, and regression plots using minimal code.
